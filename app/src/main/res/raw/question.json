@@ -1,0 +1,91 @@
+[
+  {
+    "question" : "How long is an Olympic swimming pool (in meters)?",
+    "answerA" : "50",
+    "answerB": "100",
+    "answerC": "75",
+    "answerD": "200",
+    "correctAnswer" : "A"
+  },
+
+  {
+    "question" : "What is the rarest M&M color?",
+    "answerA" : "Blue",
+    "answerB": "Brown",
+    "answerC": "Red",
+    "answerD": "Purple",
+    "correctAnswer" : "B"
+  },
+
+  {
+    "question" : "What was the first toy to be advertised on television?",
+    "answerA" : "Hot Wheels",
+    "answerB": "Optimus Prime",
+    "answerC": "Mr. Potato Head",
+    "answerD": "Power Rangers",
+    "correctAnswer" : "C"
+  },
+
+  {
+    "question" : "What sport is dubbed the \"king of sports\"?",
+    "answerA" : "Football",
+    "answerB": "Tennis",
+    "answerC": "Baseball",
+    "answerD": "Soccer",
+    "correctAnswer" : "D"
+  },
+
+  {
+    "question" : "What color is a ruby?",
+    "answerA" : "Brown",
+    "answerB": "Yellow",
+    "answerC": "Red",
+    "answerD": "Blue",
+    "correctAnswer" : "C"
+  },
+
+  {
+    "question" : "What is Earth's largest continent?",
+    "answerA" : "Europe",
+    "answerB": "Asia",
+    "answerC": "The U S of A :)",
+    "answerD": "Africa",
+    "correctAnswer" : "B"
+  },
+
+  {
+    "question" : "What is the loudest animal on Earth?",
+    "answerA" : "Sperm Whale",
+    "answerB": "Leo Kim",
+    "answerC": "Joshua Arthur Daniel Evangelista Greig",
+    "answerD": "Lion",
+    "correctAnswer" : "A"
+  },
+
+  {
+    "question" : "What is the opposite of matter?",
+    "answerA" : "ItDontMatter",
+    "answerB": "Antimatter",
+    "answerC": "Dark Matter",
+    "answerD": "light",
+    "correctAnswer" : "B"
+  },
+
+  {
+    "question" : "In the state of Georgia, it’s illegal to eat what with a fork?",
+    "answerA" : "People",
+    "answerB": "Stake",
+    "answerC": "Fried Chicken",
+    "answerD": "Fish",
+    "correctAnswer" : "C"
+  },
+
+  {
+    "question" : "Who invented the word \"vomit\"?",
+    "answerA" : "Jonathan Edwards",
+    "answerB": "George Washington",
+    "answerC": "King Henry VIII",
+    "answerD": "William Shakespeare",
+    "correctAnswer" : "D"
+  }
+]
